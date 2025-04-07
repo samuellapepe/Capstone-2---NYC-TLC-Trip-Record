@@ -1,6 +1,6 @@
 # 🚕 **NYC Taxi & Limousine Commission (TLC) Trip Record Analysis**
 
-## 📌 **Deskripsi Proyek**
+## 📌 **Deskripsi**
 
 Mobilitas masyarakat New York City sangat bergantung pada transportasi umum, termasuk NYC Taxi and Limousine Commission (TLC). Setiap harinya, ribuan perjalanan tercatat dengan informasi penting seperti waktu, lokasi, biaya, dan metode pembayaran. Data ini dapat menggambarkan pola pergerakan masyarakat, kebutuhan transportasi di waktu tertentu, serta efektivitas layanan dari berbagai vendor. Dengan analisis lebih dari 68 ribu catatan perjalanan, perusahaan dapat mengevaluasi performa layanan, mengidentifikasi waktu dan lokasi sibuk, serta memahami faktor yang memengaruhi biaya perjalanan.
 
@@ -9,7 +9,7 @@ Mobilitas masyarakat New York City sangat bergantung pada transportasi umum, ter
 * Menilai Efisiensi Vendor dalam Menghasilkan Pendapatan
 * Menganalisis Faktor yang Mempengaruhi Biaya Perjalanan
 
-## 🛠 **Tools dan Teknologi**
+## 🛠 **Tools dan Libraries**
 * Python (Pandas, NumPy, Seaborn, Matplotlib, dll.)
 * Jupyter Notebook
 * Tableau
